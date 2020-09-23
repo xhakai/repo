@@ -1,0 +1,38 @@
+HTML Tags
+
+<head></head> - head
+
+<title></title> - Title of the webpage
+
+<body></body> - Body of the page
+
+<a href="url">Name</a> - Link
+
+<img src="image.jpg" alt="image" title="Image name" clas=""> - Image source 
+(Text in alt appears when image does not load, Title appears when you hover over the image, class is for extra formatting)
+
+<h1></h1> - Heading
+
+<br> - Line break
+
+<center></center> - Center align
+
+<!DOCTYPE html> - To define a html5 document
+
+<html></html> - Initialise/end html document
+
+<html lang="en"> - Set doc language
+
+<meta charset="UTF-8"> - Set text type
+
+<ol><li></li></ol> - Ordered lists
+
+<ul><li></li></ul> - Unordered lists
+
+<p></p> - Paragraph
+
+<div></div> - Text
+
+&nbsp; - Line Space
+
+
